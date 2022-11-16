@@ -1,0 +1,798 @@
+[
+  {
+    "id": 1,
+    "name": "Geezard",
+    "ranks": {
+      "top": 1,
+      "left": 5,
+      "right": 4,
+      "bottom": 1
+    },
+    "level": 1
+  },
+  {
+    "id": 2,
+    "name": "Funguar",
+    "ranks": {
+      "top": 5,
+      "left": 3,
+      "right": 1,
+      "bottom": 1
+    },
+    "level": 1
+  },
+  {
+    "id": 3,
+    "name": "Bite Bug",
+    "ranks": {
+      "top": 1,
+      "left": 5,
+      "right": 3,
+      "bottom": 3
+    },
+    "level": 1
+  },
+  {
+    "id": 4,
+    "name": "Red Bat",
+    "ranks": {
+      "top": 6,
+      "left": 2,
+      "right": 1,
+      "bottom": 1
+    },
+    "level": 1
+  },
+  {
+    "id": 5,
+    "name": "Blobra",
+    "ranks": {
+      "top": 2,
+      "left": 5,
+      "right": 3,
+      "bottom": 1
+    },
+    "level": 1
+  },
+  {
+    "id": 6,
+    "name": "Gayla",
+    "ranks": {
+      "top": 2,
+      "left": 4,
+      "right": 1,
+      "bottom": 4
+    },
+    "level": 1
+  },
+  {
+    "id": 7,
+    "name": "Gesper",
+    "ranks": {
+      "top": 1,
+      "left": 1,
+      "right": 5,
+      "bottom": 4
+    },
+    "level": 1
+  },
+  {
+    "id": 8,
+    "name": "Fastitocalon-F",
+    "ranks": {
+      "top": 3,
+      "left": 1,
+      "right": 5,
+      "bottom": 2
+    },
+    "level": 1
+  },
+  {
+    "id": 9,
+    "name": "Blood Soul",
+    "ranks": {
+      "top": 2,
+      "left": 1,
+      "right": 1,
+      "bottom": 6
+    },
+    "level": 1
+  },
+  {
+    "id": 10,
+    "name": "Caterchipillar",
+    "ranks": {
+      "top": 4,
+      "left": 3,
+      "right": 2,
+      "bottom": 4
+    },
+    "level": 1
+  },
+  {
+    "id": 11,
+    "name": "Cockatrice",
+    "ranks": {
+      "top": 2,
+      "left": 6,
+      "right": 1,
+      "bottom": 2
+    },
+    "level": 1
+  },
+  {
+    "id": 12,
+    "name": "Grat",
+    "ranks": {
+      "top": 7,
+      "left": 1,
+      "right": 1,
+      "bottom": 3
+    },
+    "level": 2
+  },
+  {
+    "id": 13,
+    "name": "Buel",
+    "ranks": {
+      "top": 6,
+      "left": 3,
+      "right": 2,
+      "bottom": 2
+    },
+    "level": 2
+  },
+  {
+    "id": 14,
+    "name": "Mesmerize",
+    "ranks": {
+      "top": 5,
+      "left": 4,
+      "right": 3,
+      "bottom": 3
+    },
+    "level": 2
+  },
+  {
+    "id": 15,
+    "name": "Glacial Eye",
+    "ranks": {
+      "top": 6,
+      "left": 3,
+      "right": 1,
+      "bottom": 4
+    },
+    "level": 2
+  },
+  {
+    "id": 16,
+    "name": "Belhelmel",
+    "ranks": {
+      "top": 3,
+      "left": 3,
+      "right": 4,
+      "bottom": 5
+    },
+    "level": 2
+  },
+  {
+    "id": 17,
+    "name": "Thrustaevis",
+    "ranks": {
+      "top": 5,
+      "left": 5,
+      "right": 3,
+      "bottom": 2
+    },
+    "level": 2
+  },
+  {
+    "id": 18,
+    "name": "Anacondaur",
+    "ranks": {
+      "top": 5,
+      "left": 5,
+      "right": 1,
+      "bottom": 3
+    },
+    "level": 2
+  },
+  {
+    "id": 19,
+    "name": "Creeps",
+    "ranks": {
+      "top": 5,
+      "left": 2,
+      "right": 2,
+      "bottom": 5
+    },
+    "level": 2
+  },
+  {
+    "id": 20,
+    "name": "Grendel",
+    "ranks": {
+      "top": 4,
+      "left": 2,
+      "right": 4,
+      "bottom": 5
+    },
+    "level": 2
+  },
+  {
+    "id": 21,
+    "name": "Jelleye",
+    "ranks": {
+      "top": 3,
+      "left": 7,
+      "right": 2,
+      "bottom": 1
+    },
+    "level": 2
+  },
+  {
+    "id": 22,
+    "name": "Grand Mantis",
+    "ranks": {
+      "top": 5,
+      "left": 3,
+      "right": 2,
+      "bottom": 5
+    },
+    "level": 2
+  },
+  {
+    "id": 23,
+    "name": "Forbidden",
+    "ranks": {
+      "top": 6,
+      "left": 2,
+      "right": 6,
+      "bottom": 3
+    },
+    "level": 3
+  },
+  {
+    "id": 24,
+    "name": "Armadodo",
+    "ranks": {
+      "top": 6,
+      "left": 6,
+      "right": 3,
+      "bottom": 1
+    },
+    "level": 3
+  },
+  {
+    "id": 25,
+    "name": "Tri-Face",
+    "ranks": {
+      "top": 3,
+      "left": 5,
+      "right": 5,
+      "bottom": 5
+    },
+    "level": 3
+  },
+  {
+    "id": 26,
+    "name": "Fastitocalon",
+    "ranks": {
+      "top": 7,
+      "left": 3,
+      "right": 5,
+      "bottom": 1
+    },
+    "level": 3
+  },
+  {
+    "id": 27,
+    "name": "Snow Lion",
+    "ranks": {
+      "top": 7,
+      "left": 3,
+      "right": 1,
+      "bottom": 5
+    },
+    "level": 3
+  },
+  {
+    "id": 28,
+    "name": "Ochu",
+    "ranks": {
+      "top": 5,
+      "left": 3,
+      "right": 6,
+      "bottom": 3
+    },
+    "level": 3
+  },
+  {
+    "id": 29,
+    "name": "SAM08G",
+    "ranks": {
+      "top": 5,
+      "left": 4,
+      "right": 6,
+      "bottom": 2
+    },
+    "level": 3
+  },
+  {
+    "id": 30,
+    "name": "Death Claw",
+    "ranks": {
+      "top": 4,
+      "left": 2,
+      "right": 4,
+      "bottom": 7
+    },
+    "level": 3
+  },
+  {
+    "id": 31,
+    "name": "Cactuar",
+    "ranks": {
+      "top": 6,
+      "left": 3,
+      "right": 2,
+      "bottom": 6
+    },
+    "level": 3
+  },
+  {
+    "id": 32,
+    "name": "Tonberry",
+    "ranks": {
+      "top": 3,
+      "left": 4,
+      "right": 6,
+      "bottom": 4
+    },
+    "level": 3
+  },
+  {
+    "id": 33,
+    "name": "Abyss Worm",
+    "ranks": {
+      "top": 7,
+      "left": 5,
+      "right": 2,
+      "bottom": 3
+    },
+    "level": 3
+  },
+  {
+    "id": 34,
+    "name": "Turtapod",
+    "ranks": {
+      "top": 2,
+      "left": 7,
+      "right": 3,
+      "bottom": 6
+    },
+    "level": 4
+  },
+  {
+    "id": 35,
+    "name": "Vysage",
+    "ranks": {
+      "top": 6,
+      "left": 5,
+      "right": 5,
+      "bottom": 4
+    },
+    "level": 4
+  },
+  {
+    "id": 36,
+    "name": "T-Rexaur",
+    "ranks": {
+      "top": 4,
+      "left": 7,
+      "right": 6,
+      "bottom": 2
+    },
+    "level": 4
+  },
+  {
+    "id": 37,
+    "name": "Bomb",
+    "ranks": {
+      "top": 2,
+      "left": 3,
+      "right": 7,
+      "bottom": 6
+    },
+    "level": 4
+  },
+  {
+    "id": 38,
+    "name": "Blitz",
+    "ranks": {
+      "top": 1,
+      "left": 7,
+      "right": 6,
+      "bottom": 4
+    },
+    "level": 4
+  },
+  {
+    "id": 39,
+    "name": "Wendigo",
+    "ranks": {
+      "top": 7,
+      "left": 6,
+      "right": 3,
+      "bottom": 1
+    },
+    "level": 4
+  },
+  {
+    "id": 40,
+    "name": "Torama",
+    "ranks": {
+      "top": 7,
+      "left": 4,
+      "right": 4,
+      "bottom": 4
+    },
+    "level": 4
+  },
+  {
+    "id": 41,
+    "name": "Imp",
+    "ranks": {
+      "top": 3,
+      "left": 6,
+      "right": 7,
+      "bottom": 3
+    },
+    "level": 4
+  },
+  {
+    "id": 42,
+    "name": "Blue Dragon",
+    "ranks": {
+      "top": 6,
+      "left": 3,
+      "right": 2,
+      "bottom": 7
+    },
+    "level": 4
+  },
+
+  {
+    "id": 44,
+    "name": "Hexadragon",
+    "ranks": {
+      "top": 7,
+      "left": 3,
+      "right": 5,
+      "bottom": 4
+    },
+    "level": 4
+  },
+  {
+    "id": 45,
+    "name": "Iron Giant",
+    "ranks": {
+      "top": 6,
+      "left": 5,
+      "right": 5,
+      "bottom": 6
+    },
+    "level": 5
+  },
+  {
+    "id": 46,
+    "name": "Behemoth",
+    "ranks": {
+      "top": 3,
+      "left": 7,
+      "right": 6,
+      "bottom": 5
+    },
+    "level": 5
+  },
+  {
+    "id": 47,
+    "name": "Chimera",
+    "ranks": {
+      "top": 7,
+      "left": 3,
+      "right": 6,
+      "bottom": 5
+    },
+    "level": 5
+  },
+  {
+    "id": 48,
+    "name": "PuPu",
+    "ranks": {
+      "top": 3,
+      "left": 1,
+      "right": 10,
+      "bottom": 2
+    },
+    "level": 5
+  },
+  {
+    "id": 49,
+    "name": "Elastoid",
+    "ranks": {
+      "top": 6,
+      "left": 7,
+      "right": 2,
+      "bottom": 6
+    },
+    "level": 5
+  },
+  {
+    "id": 50,
+    "name": "GIM47N",
+    "ranks": {
+      "top": 5,
+      "left": 4,
+      "right": 5,
+      "bottom": 7
+    },
+    "level": 5
+  },
+  {
+    "id": 51,
+    "name": "Malboro",
+    "ranks": {
+      "top": 7,
+      "left": 2,
+      "right": 7,
+      "bottom": 4
+    },
+    "level": 5
+  },
+  {
+    "id": 52,
+    "name": "Ruby Dragon",
+    "ranks": {
+      "top": 7,
+      "left": 4,
+      "right": 2,
+      "bottom": 7
+    },
+    "level": 5
+  },
+  {
+    "id": 53,
+    "name": "Elnoyle",
+    "ranks": {
+      "top": 5,
+      "left": 6,
+      "right": 3,
+      "bottom": 7
+    },
+    "level": 5
+  },
+  {
+    "id": 54,
+    "name": "Tonberry King",
+    "ranks": {
+      "top": 4,
+      "left": 4,
+      "right": 6,
+      "bottom": 7
+    },
+    "level": 5
+  },
+
+  {
+    "id": 57,
+    "name": "Elvoret",
+    "ranks": {
+      "top": 7,
+      "left": 4,
+      "right": 8,
+      "bottom": 3
+    },
+    "level": 6
+  },
+  {
+    "id": 58,
+    "name": "X-ATM092",
+    "ranks": {
+      "top": 4,
+      "left": 3,
+      "right": 8,
+      "bottom": 7
+    },
+    "level": 6
+  },
+  {
+    "id": 59,
+    "name": "Granaldo",
+    "ranks": {
+      "top": 7,
+      "left": 5,
+      "right": 2,
+      "bottom": 8
+    },
+    "level": 6
+  },
+  {
+    "id": 60,
+    "name": "Gerogero",
+    "ranks": {
+      "top": 1,
+      "left": 3,
+      "right": 8,
+      "bottom": 8
+    },
+    "level": 6
+  },
+  {
+    "id": 61,
+    "name": "Iguion",
+    "ranks": {
+      "top": 8,
+      "left": 2,
+      "right": 2,
+      "bottom": 8
+    },
+    "level": 6
+  },
+  {
+    "id": 62,
+    "name": "Abadon",
+    "ranks": {
+      "top": 6,
+      "left": 5,
+      "right": 8,
+      "bottom": 4
+    },
+    "level": 6
+  },
+  {
+    "id": 63,
+    "name": "Trauma",
+    "ranks": {
+      "top": 4,
+      "left": 6,
+      "right": 8,
+      "bottom": 5
+    },
+    "level": 6
+  },
+  {
+    "id": 64,
+    "name": "Oilboyle",
+    "ranks": {
+      "top": 1,
+      "left": 8,
+      "right": 8,
+      "bottom": 4
+    },
+    "level": 6
+  },
+
+  {
+    "id": 66,
+    "name": "Krysta",
+    "ranks": {
+      "top": 7,
+      "left": 1,
+      "right": 5,
+      "bottom": 8
+    },
+    "level": 6
+  },
+
+  {
+    "id": 68,
+    "name": "Jumbo Cactuar",
+    "ranks": {
+      "top": 8,
+      "left": 4,
+      "right": 8,
+      "bottom": 4
+    },
+    "level": 7
+  },
+  {
+    "id": 69,
+    "name": "Tri-Point",
+    "ranks": {
+      "top": 8,
+      "left": 8,
+      "right": 5,
+      "bottom": 2
+    },
+    "level": 7
+  },
+  {
+    "id": 70,
+    "name": "Gargantua",
+    "ranks": {
+      "top": 5,
+      "left": 8,
+      "right": 6,
+      "bottom": 6
+    },
+    "level": 7
+  },
+  {
+    "id": 71,
+    "name": "Mobile Type 8",
+    "ranks": {
+      "top": 8,
+      "left": 3,
+      "right": 6,
+      "bottom": 7
+    },
+    "level": 7
+  },
+  {
+    "id": 72,
+    "name": "Sphinxara",
+    "ranks": {
+      "top": 8,
+      "left": 8,
+      "right": 3,
+      "bottom": 5
+    },
+    "level": 7
+  },
+  {
+    "id": 73,
+    "name": "Tiamat",
+    "ranks": {
+      "top": 8,
+      "left": 4,
+      "right": 8,
+      "bottom": 5
+    },
+    "level": 7
+  },
+  {
+    "id": 74,
+    "name": "BGH251F2",
+    "ranks": {
+      "top": 5,
+      "left": 5,
+      "right": 7,
+      "bottom": 8
+    },
+    "level": 7
+  },
+  {
+    "id": 75,
+    "name": "Red Giant",
+    "ranks": {
+      "top": 6,
+      "left": 7,
+      "right": 8,
+      "bottom": 4
+    },
+    "level": 7
+  },
+  {
+    "id": 76,
+    "name": "Catoblepas",
+    "ranks": {
+      "top": 1,
+      "left": 7,
+      "right": 8,
+      "bottom": 7
+    },
+    "level": 7
+  },
+  {
+    "id": 77,
+    "name": "Ultima Weapon",
+    "ranks": {
+      "top": 7,
+      "left": 8,
+      "right": 7,
+      "bottom": 2
+    },
+    "level": 7
+  }
+]

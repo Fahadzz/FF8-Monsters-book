@@ -1,0 +1,303 @@
+{
+    "id": 43,
+    "name": "Adamantoise",
+    "ranks": {
+      "top": 4,
+      "left": 6,
+      "right": 5,
+      "bottom": 5
+    },
+    "level": 4
+  },
+  
+  {
+    "id": 55,
+    "name": "Wedge, Biggs",
+    "ranks": {
+      "top": 6,
+      "left": 7,
+      "right": 6,
+      "bottom": 2
+    },
+    "level": 5
+  },
+  {
+    "id": 56,
+    "name": "Fujin Raijin",
+    "ranks": {
+      "top": 2,
+      "left": 4,
+      "right": 8,
+      "bottom": 8
+    },
+    "level": 6
+  },
+  {
+    "id": 65,
+    "name": "Shumi",
+    "ranks": {
+      "top": 6,
+      "left": 4,
+      "right": 5,
+      "bottom": 8
+    },
+    "level": 6
+  },
+
+  {
+    "id": 67,
+    "name": "Propagator",
+    "ranks": {
+      "top": 8,
+      "left": 8,
+      "right": 4,
+      "bottom": 4
+    },
+    "level": 7
+  },
+  {
+    "id": 78,
+    "name": "Chubby Chocobo",
+    "ranks": {
+      "top": 4,
+      "left": 9,
+      "right": 4,
+      "bottom": 8
+    },
+    "level": 8
+  },
+
+  {
+    "id": 79,
+    "name": "Angelo",
+    "ranks": {
+      "top": 9,
+      "left": 3,
+      "right": 6,
+      "bottom": 7
+    },
+    "level": 8
+  },
+
+  {
+    "id": 80,
+    "name": "Gilgamesh",
+    "ranks": {
+      "top": 3,
+      "left": 6,
+      "right": 7,
+      "bottom": 9
+    },
+    "level": 8
+  },
+  {
+    "id": 81,
+    "name": "MiniMog",
+    "ranks": {
+      "top": 9,
+      "left": 2,
+      "right": 3,
+      "bottom": 9
+    },
+    "level": 8
+  },
+
+
+  {
+    "id": 82,
+    "name": "Chicobo",
+    "ranks": {
+      "top": 9,
+      "left": 4,
+      "right": 4,
+      "bottom": 8
+    },
+    "level": 8
+  },
+  {
+    "id": 83,
+    "name": "Quezacotl",
+    "ranks": {
+      "top": 2,
+      "left": 4,
+      "right": 9,
+      "bottom": 9
+    },
+    "level": 8
+  },
+  {
+    "id": 84,
+    "name": "Shiva",
+    "ranks": {
+      "top": 6,
+      "left": 9,
+      "right": 7,
+      "bottom": 4
+    },
+    "level": 8
+  },
+  {
+    "id": 85,
+    "name": "Ifrit",
+    "ranks": {
+      "top": 9,
+      "left": 8,
+      "right": 6,
+      "bottom": 2
+    },
+    "level": 8
+  },
+  {
+    "id": 86,
+    "name": "Siren",
+    "ranks": {
+      "top": 8,
+      "left": 2,
+      "right": 9,
+      "bottom": 6
+    },
+    "level": 8
+  },
+  {
+    "id": 87,
+    "name": "Sacred",
+    "ranks": {
+      "top": 5,
+      "left": 9,
+      "right": 1,
+      "bottom": 9
+    },
+    "level": 8
+  },
+  {
+    "id": 88,
+    "name": "Minotaur",
+    "ranks": {
+      "top": 9,
+      "left": 9,
+      "right": 5,
+      "bottom": 2
+    },
+    "level": 8
+  },
+  {
+    "id": 89,
+    "name": "Carbuncle",
+    "ranks": {
+      "top": 8,
+      "left": 4,
+      "right": 4,
+      "bottom": 10
+    },
+    "level": 9
+  },
+  {
+    "id": 90,
+    "name": "Diablos",
+    "ranks": {
+      "top": 5,
+      "left": 3,
+      "right": 10,
+      "bottom": 8
+    },
+    "level": 9
+  },
+  {
+    "id": 91,
+    "name": "Leviathan",
+    "ranks": {
+      "top": 7,
+      "left": 7,
+      "right": 10,
+      "bottom": 1
+    },
+    "level": 9
+  },
+  {
+    "id": 92,
+    "name": "Odin",
+    "ranks": {
+      "top": 8,
+      "left": 5,
+      "right": 10,
+      "bottom": 3
+    },
+    "level": 9
+  },
+  {
+    "id": 93,
+    "name": "Pandemona",
+    "ranks": {
+      "top": 10,
+      "left": 7,
+      "right": 1,
+      "bottom": 7
+    },
+    "level": 9
+  },
+  {
+    "id": 94,
+    "name": "Cerberus",
+    "ranks": {
+      "top": 7,
+      "left": 10,
+      "right": 4,
+      "bottom": 6
+    },
+    "level": 9
+  },
+  {
+    "id": 95,
+    "name": "Alexander",
+    "ranks": {
+      "top": 9,
+      "left": 2,
+      "right": 10,
+      "bottom": 4
+    },
+    "level": 9
+  },
+  {
+    "id": 96,
+    "name": "Phoenix",
+    "ranks": {
+      "top": 7,
+      "left": 10,
+      "right": 2,
+      "bottom": 7
+    },
+    "level": 9
+  },
+  {
+    "id": 97,
+    "name": "Bahamut",
+    "ranks": {
+      "top": 10,
+      "left": 6,
+      "right": 8,
+      "bottom": 2
+    },
+    "level": 9
+  },
+  {
+    "id": 98,
+    "name": "Doomtrain",
+    "ranks": {
+      "top": 3,
+      "left": 10,
+      "right": 1,
+      "bottom": 10
+    },
+    "level": 9
+  },
+  {
+    "id": 99,
+    "name": "Eden",
+    "ranks": {
+      "top": 4,
+      "left": 10,
+      "right": 4,
+      "bottom": 9
+    },
+    "level": 9
+  }
