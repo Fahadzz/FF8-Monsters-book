@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": 43,
     "name": "Adamantoise",
     "ranks": {
@@ -9,17 +10,16 @@
     },
     "level": 4
   },
-  
   {
-    "id": 55,
-    "name": "Wedge, Biggs",
+    "id": 67,
+    "name": "Propagator",
     "ranks": {
-      "top": 6,
-      "left": 7,
-      "right": 6,
-      "bottom": 2
+      "top": 8,
+      "left": 8,
+      "right": 4,
+      "bottom": 4
     },
-    "level": 5
+    "level": 7
   },
   {
     "id": 56,
@@ -33,6 +33,18 @@
     "level": 6
   },
   {
+    "id": 55,
+    "name": "Wedge, Biggs",
+    "ranks": {
+      "top": 6,
+      "left": 7,
+      "right": 6,
+      "bottom": 2
+    },
+    "level": 5
+  },
+
+  {
     "id": 65,
     "name": "Shumi",
     "ranks": {
@@ -44,17 +56,6 @@
     "level": 6
   },
 
-  {
-    "id": 67,
-    "name": "Propagator",
-    "ranks": {
-      "top": 8,
-      "left": 8,
-      "right": 4,
-      "bottom": 4
-    },
-    "level": 7
-  },
   {
     "id": 78,
     "name": "Chubby Chocobo",
@@ -102,7 +103,6 @@
     "level": 8
   },
 
-
   {
     "id": 82,
     "name": "Chicobo",
@@ -136,17 +136,7 @@
     },
     "level": 8
   },
-  {
-    "id": 85,
-    "name": "Ifrit",
-    "ranks": {
-      "top": 9,
-      "left": 8,
-      "right": 6,
-      "bottom": 2
-    },
-    "level": 8
-  },
+
   {
     "id": 86,
     "name": "Siren",
@@ -155,28 +145,6 @@
       "left": 2,
       "right": 9,
       "bottom": 6
-    },
-    "level": 8
-  },
-  {
-    "id": 87,
-    "name": "Sacred",
-    "ranks": {
-      "top": 5,
-      "left": 9,
-      "right": 1,
-      "bottom": 9
-    },
-    "level": 8
-  },
-  {
-    "id": 88,
-    "name": "Minotaur",
-    "ranks": {
-      "top": 9,
-      "left": 9,
-      "right": 5,
-      "bottom": 2
     },
     "level": 8
   },
@@ -191,17 +159,7 @@
     },
     "level": 9
   },
-  {
-    "id": 90,
-    "name": "Diablos",
-    "ranks": {
-      "top": 5,
-      "left": 3,
-      "right": 10,
-      "bottom": 8
-    },
-    "level": 9
-  },
+
   {
     "id": 91,
     "name": "Leviathan",
@@ -213,17 +171,7 @@
     },
     "level": 9
   },
-  {
-    "id": 92,
-    "name": "Odin",
-    "ranks": {
-      "top": 8,
-      "left": 5,
-      "right": 10,
-      "bottom": 3
-    },
-    "level": 9
-  },
+
   {
     "id": 93,
     "name": "Pandemona",
@@ -268,17 +216,7 @@
     },
     "level": 9
   },
-  {
-    "id": 97,
-    "name": "Bahamut",
-    "ranks": {
-      "top": 10,
-      "left": 6,
-      "right": 8,
-      "bottom": 2
-    },
-    "level": 9
-  },
+
   {
     "id": 98,
     "name": "Doomtrain",
@@ -301,3 +239,4 @@
     },
     "level": 9
   }
+]

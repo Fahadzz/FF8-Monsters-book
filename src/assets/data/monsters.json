@@ -794,5 +794,138 @@
       "bottom": 2
     },
     "level": 7
+  },
+
+  {
+    "id": 85,
+    "name": "Ifrit",
+    "ranks": {
+      "top": 9,
+      "left": 8,
+      "right": 6,
+      "bottom": 2
+    },
+    "level": 8
+  },
+  {
+    "id": 87,
+    "name": "Sacred",
+    "ranks": {
+      "top": 5,
+      "left": 9,
+      "right": 1,
+      "bottom": 9
+    },
+    "level": 8
+  },
+  {
+    "id": 88,
+    "name": "Minotaur",
+    "ranks": {
+      "top": 9,
+      "left": 9,
+      "right": 5,
+      "bottom": 2
+    },
+    "level": 8
+  },
+  {
+    "id": 90,
+    "name": "Diablos",
+    "ranks": {
+      "top": 5,
+      "left": 3,
+      "right": 10,
+      "bottom": 8
+    },
+    "level": 9
+  },
+  {
+    "id": 92,
+    "name": "Odin",
+    "ranks": {
+      "top": 8,
+      "left": 5,
+      "right": 10,
+      "bottom": 3
+    },
+    "level": 9
+  },
+  {
+    "id": 97,
+    "name": "Bahamut",
+    "ranks": {
+      "top": 10,
+      "left": 6,
+      "right": 8,
+      "bottom": 2
+    },
+    "level": 9
+  },
+  {
+    "id": 1000,
+    "name": "Propagator Green",
+    "ranks": {
+      "top": 8,
+      "left": 8,
+      "right": 4,
+      "bottom": 4
+    },
+    "level": 7
+  },
+  {
+    "id": 1001,
+    "name": "Propagator Orange",
+    "ranks": {
+      "top": 8,
+      "left": 8,
+      "right": 4,
+      "bottom": 4
+    },
+    "level": 7
+  },
+  {
+    "id": 1002,
+    "name": "Propagator Purple",
+    "ranks": {
+      "top": 8,
+      "left": 8,
+      "right": 4,
+      "bottom": 4
+    },
+    "level": 7
+  },
+  {
+    "id": 1003,
+    "name": "Propagator Red",
+    "ranks": {
+      "top": 8,
+      "left": 8,
+      "right": 4,
+      "bottom": 4
+    },
+    "level": 7
+  },
+  {
+    "id": 1004,
+    "name": "Fujin",
+    "ranks": {
+      "top": 2,
+      "left": 4,
+      "right": 8,
+      "bottom": 8
+    },
+    "level": 6
+  },
+  {
+    "id": 1005,
+    "name": "Raijin",
+    "ranks": {
+      "top": 2,
+      "left": 4,
+      "right": 8,
+      "bottom": 8
+    },
+    "level": 6
   }
 ]
