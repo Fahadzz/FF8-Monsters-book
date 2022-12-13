@@ -11,6 +11,7 @@ export const App = () => {
   const [searchField, setSearchField] = useState('')
   const [monsters, setMonsters] = useState(monstersFF);
   const [filteredMonsters, setFilteredMonsters] = useState(monsters)
+  console.log("Rendered")
   const onSearchChange = (event) => {
     const searchFieldString = event.target.value.toLocaleLowerCase();
     setSearchField(searchFieldString)
